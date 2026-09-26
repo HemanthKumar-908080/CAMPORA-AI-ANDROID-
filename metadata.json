@@ -1,0 +1,8 @@
+{
+  "name": "Remix Campora AI ( prototype )",
+  "description": "Personalized Campus Intelligence \u0026 Navigation System",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}

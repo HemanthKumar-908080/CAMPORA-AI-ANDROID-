@@ -1,0 +1,6 @@
+{
+  "name": "Campora AI",
+  "description": "Campora AI — Personalized Campus Intelligence & Navigation System for Vel Tech High Tech Engineering College, Avadi, Chennai.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
